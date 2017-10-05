@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Devices>
+  <Device id="3300e2c5341873a5">
+    <ResultingAbi>armeabi-v7a</ResultingAbi>
+    <SdkVersion>24</SdkVersion>
+  </Device>
+  <Device id="ab208372">
+    <ResultingAbi>armeabi-v7a</ResultingAbi>
+    <SdkVersion>24</SdkVersion>
+  </Device>
+</Devices>

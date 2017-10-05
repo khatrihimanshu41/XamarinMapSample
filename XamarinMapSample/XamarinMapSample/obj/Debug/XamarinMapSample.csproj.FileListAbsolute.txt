@@ -1,0 +1,16 @@
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\bin\Debug\XamarinMapSample.dll
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\bin\Debug\XamarinMapSample.pdb
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\bin\Debug\Xamarin.Forms.Core.dll
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\bin\Debug\Xamarin.Forms.GoogleMaps.dll
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\bin\Debug\Xamarin.Forms.Maps.dll
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\bin\Debug\Xamarin.Forms.Platform.dll
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\bin\Debug\Xamarin.Forms.Core.pdb
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\bin\Debug\Xamarin.Forms.Core.xml
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\bin\Debug\Xamarin.Forms.Maps.xml
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\obj\Debug\XamarinMapSample.Page1.xaml.g.cs
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\obj\Debug\XamarinMapSample.dll
+D:\XamarinMapSample\XamarinMapSample\XamarinMapSample\obj\Debug\XamarinMapSample.pdb
