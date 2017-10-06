@@ -226,10 +226,34 @@ Android.Support.V7.Widget.RecyclerView/IRecyclerListenerImplementor, Xamarin.And
 Android.Support.V7.Widget.RecyclerView+IRecyclerListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
 Android.Support.V7.Widget.RecyclerView.IRecyclerListenerImplementor;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
 mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
-Xamarin.Forms.Maps.Android.MapRenderer, Xamarin.Forms.Maps.Android;md5d956392b2b421ac2c9ccfc063253dcd9.MapRenderer
-Xamarin.Forms.Maps.Android.MapRenderer, Xamarin.Forms.Maps.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null;md5d956392b2b421ac2c9ccfc063253dcd9.MapRenderer
-Xamarin.Forms.Maps.Android.MapRenderer;md5d956392b2b421ac2c9ccfc063253dcd9.MapRenderer
-xamarin.forms.maps.android.MapRenderer;md5d956392b2b421ac2c9ccfc063253dcd9.MapRenderer
+Xamarin.Forms.GoogleMaps.Android.MapRenderer, Xamarin.Forms.GoogleMaps.Android;md5105bfc0c8b124351616acc9954ededbf.MapRenderer
+Xamarin.Forms.GoogleMaps.Android.MapRenderer, Xamarin.Forms.GoogleMaps.Android, Version=1.8.0.8, Culture=neutral, PublicKeyToken=null;md5105bfc0c8b124351616acc9954ededbf.MapRenderer
+Xamarin.Forms.GoogleMaps.Android.MapRenderer;md5105bfc0c8b124351616acc9954ededbf.MapRenderer
+xamarin.forms.googlemaps.android.MapRenderer;md5105bfc0c8b124351616acc9954ededbf.MapRenderer
+Xamarin.Forms.GoogleMaps.Android.DroidAsyncTileLayer, Xamarin.Forms.GoogleMaps.Android;md5105bfc0c8b124351616acc9954ededbf.DroidAsyncTileLayer
+Xamarin.Forms.GoogleMaps.Android.DroidAsyncTileLayer, Xamarin.Forms.GoogleMaps.Android, Version=1.8.0.8, Culture=neutral, PublicKeyToken=null;md5105bfc0c8b124351616acc9954ededbf.DroidAsyncTileLayer
+Xamarin.Forms.GoogleMaps.Android.DroidAsyncTileLayer;md5105bfc0c8b124351616acc9954ededbf.DroidAsyncTileLayer
+xamarin.forms.googlemaps.android.DroidAsyncTileLayer;md5105bfc0c8b124351616acc9954ededbf.DroidAsyncTileLayer
+Xamarin.Forms.GoogleMaps.Android.DroidSyncTileLayer, Xamarin.Forms.GoogleMaps.Android;md5105bfc0c8b124351616acc9954ededbf.DroidSyncTileLayer
+Xamarin.Forms.GoogleMaps.Android.DroidSyncTileLayer, Xamarin.Forms.GoogleMaps.Android, Version=1.8.0.8, Culture=neutral, PublicKeyToken=null;md5105bfc0c8b124351616acc9954ededbf.DroidSyncTileLayer
+Xamarin.Forms.GoogleMaps.Android.DroidSyncTileLayer;md5105bfc0c8b124351616acc9954ededbf.DroidSyncTileLayer
+xamarin.forms.googlemaps.android.DroidSyncTileLayer;md5105bfc0c8b124351616acc9954ededbf.DroidSyncTileLayer
+Xamarin.Forms.GoogleMaps.Android.DroidUrlTileLayer, Xamarin.Forms.GoogleMaps.Android;md5105bfc0c8b124351616acc9954ededbf.DroidUrlTileLayer
+Xamarin.Forms.GoogleMaps.Android.DroidUrlTileLayer, Xamarin.Forms.GoogleMaps.Android, Version=1.8.0.8, Culture=neutral, PublicKeyToken=null;md5105bfc0c8b124351616acc9954ededbf.DroidUrlTileLayer
+Xamarin.Forms.GoogleMaps.Android.DroidUrlTileLayer;md5105bfc0c8b124351616acc9954ededbf.DroidUrlTileLayer
+xamarin.forms.googlemaps.android.DroidUrlTileLayer;md5105bfc0c8b124351616acc9954ededbf.DroidUrlTileLayer
+Xamarin.Forms.GoogleMaps.Android.Logics.DelegateSnapshotReadyCallback, Xamarin.Forms.GoogleMaps.Android;md5f57bbb852e40f64e38a3e9c8c41021ca.DelegateSnapshotReadyCallback
+Xamarin.Forms.GoogleMaps.Android.Logics.DelegateSnapshotReadyCallback, Xamarin.Forms.GoogleMaps.Android, Version=1.8.0.8, Culture=neutral, PublicKeyToken=null;md5f57bbb852e40f64e38a3e9c8c41021ca.DelegateSnapshotReadyCallback
+Xamarin.Forms.GoogleMaps.Android.Logics.DelegateSnapshotReadyCallback;md5f57bbb852e40f64e38a3e9c8c41021ca.DelegateSnapshotReadyCallback
+xamarin.forms.googlemaps.android.logics.DelegateSnapshotReadyCallback;md5f57bbb852e40f64e38a3e9c8c41021ca.DelegateSnapshotReadyCallback
+Xamarin.Forms.GoogleMaps.Android.Logics.DelegateCancelableCallback, Xamarin.Forms.GoogleMaps.Android;md5f57bbb852e40f64e38a3e9c8c41021ca.DelegateCancelableCallback
+Xamarin.Forms.GoogleMaps.Android.Logics.DelegateCancelableCallback, Xamarin.Forms.GoogleMaps.Android, Version=1.8.0.8, Culture=neutral, PublicKeyToken=null;md5f57bbb852e40f64e38a3e9c8c41021ca.DelegateCancelableCallback
+Xamarin.Forms.GoogleMaps.Android.Logics.DelegateCancelableCallback;md5f57bbb852e40f64e38a3e9c8c41021ca.DelegateCancelableCallback
+xamarin.forms.googlemaps.android.logics.DelegateCancelableCallback;md5f57bbb852e40f64e38a3e9c8c41021ca.DelegateCancelableCallback
+Xamarin.Forms.GoogleMaps.Android.Extensions.OnMapReadyCallback, Xamarin.Forms.GoogleMaps.Android;md5d53d7ca2d814536b270f39e2bdc9be5a.OnMapReadyCallback
+Xamarin.Forms.GoogleMaps.Android.Extensions.OnMapReadyCallback, Xamarin.Forms.GoogleMaps.Android, Version=1.8.0.8, Culture=neutral, PublicKeyToken=null;md5d53d7ca2d814536b270f39e2bdc9be5a.OnMapReadyCallback
+Xamarin.Forms.GoogleMaps.Android.Extensions.OnMapReadyCallback;md5d53d7ca2d814536b270f39e2bdc9be5a.OnMapReadyCallback
+xamarin.forms.googlemaps.android.extensions.OnMapReadyCallback;md5d53d7ca2d814536b270f39e2bdc9be5a.OnMapReadyCallback
 Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android;md5b60ffeb829f638581ab2bb9b1a7f4f3f.CellAdapter
 Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null;md5b60ffeb829f638581ab2bb9b1a7f4f3f.CellAdapter
 Xamarin.Forms.Platform.Android.CellAdapter;md5b60ffeb829f638581ab2bb9b1a7f4f3f.CellAdapter
@@ -662,34 +686,6 @@ Xamarin.Forms.Platform.Android.AppCompat.FormsFragmentPagerAdapter`1, Xamarin.Fo
 Xamarin.Forms.Platform.Android.AppCompat.FormsFragmentPagerAdapter`1, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null;md5270abb39e60627f0f200893b490a1ade.FormsFragmentPagerAdapter_1
 Xamarin.Forms.Platform.Android.AppCompat.FormsFragmentPagerAdapter`1;md5270abb39e60627f0f200893b490a1ade.FormsFragmentPagerAdapter_1
 xamarin.forms.platform.android.appcompat.FormsFragmentPagerAdapter_1;md5270abb39e60627f0f200893b490a1ade.FormsFragmentPagerAdapter_1
-Android.Gms.Common.Apis.ResultCallback`1, Xamarin.GooglePlayServices.Basement;md531f8cc8d4d39b2fa02686ee0eb368905.ResultCallback_1
-Android.Gms.Common.Apis.ResultCallback`1, Xamarin.GooglePlayServices.Basement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md531f8cc8d4d39b2fa02686ee0eb368905.ResultCallback_1
-Android.Gms.Common.Apis.ResultCallback`1;md531f8cc8d4d39b2fa02686ee0eb368905.ResultCallback_1
-android.gms.common.apis.ResultCallback_1;md531f8cc8d4d39b2fa02686ee0eb368905.ResultCallback_1
-Android.Gms.Common.Apis.AwaitableResultCallback`1, Xamarin.GooglePlayServices.Basement;md531f8cc8d4d39b2fa02686ee0eb368905.AwaitableResultCallback_1
-Android.Gms.Common.Apis.AwaitableResultCallback`1, Xamarin.GooglePlayServices.Basement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md531f8cc8d4d39b2fa02686ee0eb368905.AwaitableResultCallback_1
-Android.Gms.Common.Apis.AwaitableResultCallback`1;md531f8cc8d4d39b2fa02686ee0eb368905.AwaitableResultCallback_1
-android.gms.common.apis.AwaitableResultCallback_1;md531f8cc8d4d39b2fa02686ee0eb368905.AwaitableResultCallback_1
-Android.Gms.Security.ProviderInstaller/IProviderInstallListenerImplementor, Xamarin.GooglePlayServices.Basement;mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor
-Android.Gms.Security.ProviderInstaller+IProviderInstallListenerImplementor, Xamarin.GooglePlayServices.Basement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor
-Android.Gms.Security.ProviderInstaller.IProviderInstallListenerImplementor;mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor
-mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor;mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor
-Android.Gms.Extensions.AwaitableTaskCompleteListener`1, Xamarin.GooglePlayServices.Tasks;md5048a04284979bff265231e98628579ce.AwaitableTaskCompleteListener_1
-Android.Gms.Extensions.AwaitableTaskCompleteListener`1, Xamarin.GooglePlayServices.Tasks, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5048a04284979bff265231e98628579ce.AwaitableTaskCompleteListener_1
-Android.Gms.Extensions.AwaitableTaskCompleteListener`1;md5048a04284979bff265231e98628579ce.AwaitableTaskCompleteListener_1
-android.gms.extensions.AwaitableTaskCompleteListener_1;md5048a04284979bff265231e98628579ce.AwaitableTaskCompleteListener_1
-Android.Gms.Tasks.IOnCompleteListenerImplementor, Xamarin.GooglePlayServices.Tasks;mono.com.google.android.gms.tasks.OnCompleteListenerImplementor
-Android.Gms.Tasks.IOnCompleteListenerImplementor, Xamarin.GooglePlayServices.Tasks, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.tasks.OnCompleteListenerImplementor
-Android.Gms.Tasks.IOnCompleteListenerImplementor;mono.com.google.android.gms.tasks.OnCompleteListenerImplementor
-mono.com.google.android.gms.tasks.OnCompleteListenerImplementor;mono.com.google.android.gms.tasks.OnCompleteListenerImplementor
-Android.Gms.Tasks.IOnFailureListenerImplementor, Xamarin.GooglePlayServices.Tasks;mono.com.google.android.gms.tasks.OnFailureListenerImplementor
-Android.Gms.Tasks.IOnFailureListenerImplementor, Xamarin.GooglePlayServices.Tasks, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.tasks.OnFailureListenerImplementor
-Android.Gms.Tasks.IOnFailureListenerImplementor;mono.com.google.android.gms.tasks.OnFailureListenerImplementor
-mono.com.google.android.gms.tasks.OnFailureListenerImplementor;mono.com.google.android.gms.tasks.OnFailureListenerImplementor
-Android.Gms.Tasks.IOnSuccessListenerImplementor, Xamarin.GooglePlayServices.Tasks;mono.com.google.android.gms.tasks.OnSuccessListenerImplementor
-Android.Gms.Tasks.IOnSuccessListenerImplementor, Xamarin.GooglePlayServices.Tasks, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.tasks.OnSuccessListenerImplementor
-Android.Gms.Tasks.IOnSuccessListenerImplementor;mono.com.google.android.gms.tasks.OnSuccessListenerImplementor
-mono.com.google.android.gms.tasks.OnSuccessListenerImplementor;mono.com.google.android.gms.tasks.OnSuccessListenerImplementor
 Android.Gms.Common.Apis.GoogleApiClient/IOnConnectionFailedListenerImplementor, Xamarin.GooglePlayServices.Base;mono.com.google.android.gms.common.api.GoogleApiClient_OnConnectionFailedListenerImplementor
 Android.Gms.Common.Apis.GoogleApiClient+IOnConnectionFailedListenerImplementor, Xamarin.GooglePlayServices.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.common.api.GoogleApiClient_OnConnectionFailedListenerImplementor
 Android.Gms.Common.Apis.GoogleApiClient.IOnConnectionFailedListenerImplementor;mono.com.google.android.gms.common.api.GoogleApiClient_OnConnectionFailedListenerImplementor
@@ -706,6 +702,18 @@ Android.Gms.Common.Images.ImageManager/IOnImageLoadedListenerImplementor, Xamari
 Android.Gms.Common.Images.ImageManager+IOnImageLoadedListenerImplementor, Xamarin.GooglePlayServices.Base, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.common.images.ImageManager_OnImageLoadedListenerImplementor
 Android.Gms.Common.Images.ImageManager.IOnImageLoadedListenerImplementor;mono.com.google.android.gms.common.images.ImageManager_OnImageLoadedListenerImplementor
 mono.com.google.android.gms.common.images.ImageManager_OnImageLoadedListenerImplementor;mono.com.google.android.gms.common.images.ImageManager_OnImageLoadedListenerImplementor
+Android.Gms.Common.Apis.ResultCallback`1, Xamarin.GooglePlayServices.Basement;md531f8cc8d4d39b2fa02686ee0eb368905.ResultCallback_1
+Android.Gms.Common.Apis.ResultCallback`1, Xamarin.GooglePlayServices.Basement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md531f8cc8d4d39b2fa02686ee0eb368905.ResultCallback_1
+Android.Gms.Common.Apis.ResultCallback`1;md531f8cc8d4d39b2fa02686ee0eb368905.ResultCallback_1
+android.gms.common.apis.ResultCallback_1;md531f8cc8d4d39b2fa02686ee0eb368905.ResultCallback_1
+Android.Gms.Common.Apis.AwaitableResultCallback`1, Xamarin.GooglePlayServices.Basement;md531f8cc8d4d39b2fa02686ee0eb368905.AwaitableResultCallback_1
+Android.Gms.Common.Apis.AwaitableResultCallback`1, Xamarin.GooglePlayServices.Basement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md531f8cc8d4d39b2fa02686ee0eb368905.AwaitableResultCallback_1
+Android.Gms.Common.Apis.AwaitableResultCallback`1;md531f8cc8d4d39b2fa02686ee0eb368905.AwaitableResultCallback_1
+android.gms.common.apis.AwaitableResultCallback_1;md531f8cc8d4d39b2fa02686ee0eb368905.AwaitableResultCallback_1
+Android.Gms.Security.ProviderInstaller/IProviderInstallListenerImplementor, Xamarin.GooglePlayServices.Basement;mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor
+Android.Gms.Security.ProviderInstaller+IProviderInstallListenerImplementor, Xamarin.GooglePlayServices.Basement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor
+Android.Gms.Security.ProviderInstaller.IProviderInstallListenerImplementor;mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor
+mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor;mono.com.google.android.gms.security.ProviderInstaller_ProviderInstallListenerImplementor
 Android.Gms.Maps.GoogleMap/IOnCameraChangeListenerImplementor, Xamarin.GooglePlayServices.Maps;mono.com.google.android.gms.maps.GoogleMap_OnCameraChangeListenerImplementor
 Android.Gms.Maps.GoogleMap+IOnCameraChangeListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.GoogleMap_OnCameraChangeListenerImplementor
 Android.Gms.Maps.GoogleMap.IOnCameraChangeListenerImplementor;mono.com.google.android.gms.maps.GoogleMap_OnCameraChangeListenerImplementor
@@ -806,3 +814,19 @@ Android.Gms.Maps.StreetViewPanorama/IOnStreetViewPanoramaLongClickListenerImplem
 Android.Gms.Maps.StreetViewPanorama+IOnStreetViewPanoramaLongClickListenerImplementor, Xamarin.GooglePlayServices.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.maps.StreetViewPanorama_OnStreetViewPanoramaLongClickListenerImplementor
 Android.Gms.Maps.StreetViewPanorama.IOnStreetViewPanoramaLongClickListenerImplementor;mono.com.google.android.gms.maps.StreetViewPanorama_OnStreetViewPanoramaLongClickListenerImplementor
 mono.com.google.android.gms.maps.StreetViewPanorama_OnStreetViewPanoramaLongClickListenerImplementor;mono.com.google.android.gms.maps.StreetViewPanorama_OnStreetViewPanoramaLongClickListenerImplementor
+Android.Gms.Extensions.AwaitableTaskCompleteListener`1, Xamarin.GooglePlayServices.Tasks;md5048a04284979bff265231e98628579ce.AwaitableTaskCompleteListener_1
+Android.Gms.Extensions.AwaitableTaskCompleteListener`1, Xamarin.GooglePlayServices.Tasks, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5048a04284979bff265231e98628579ce.AwaitableTaskCompleteListener_1
+Android.Gms.Extensions.AwaitableTaskCompleteListener`1;md5048a04284979bff265231e98628579ce.AwaitableTaskCompleteListener_1
+android.gms.extensions.AwaitableTaskCompleteListener_1;md5048a04284979bff265231e98628579ce.AwaitableTaskCompleteListener_1
+Android.Gms.Tasks.IOnCompleteListenerImplementor, Xamarin.GooglePlayServices.Tasks;mono.com.google.android.gms.tasks.OnCompleteListenerImplementor
+Android.Gms.Tasks.IOnCompleteListenerImplementor, Xamarin.GooglePlayServices.Tasks, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.tasks.OnCompleteListenerImplementor
+Android.Gms.Tasks.IOnCompleteListenerImplementor;mono.com.google.android.gms.tasks.OnCompleteListenerImplementor
+mono.com.google.android.gms.tasks.OnCompleteListenerImplementor;mono.com.google.android.gms.tasks.OnCompleteListenerImplementor
+Android.Gms.Tasks.IOnFailureListenerImplementor, Xamarin.GooglePlayServices.Tasks;mono.com.google.android.gms.tasks.OnFailureListenerImplementor
+Android.Gms.Tasks.IOnFailureListenerImplementor, Xamarin.GooglePlayServices.Tasks, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.tasks.OnFailureListenerImplementor
+Android.Gms.Tasks.IOnFailureListenerImplementor;mono.com.google.android.gms.tasks.OnFailureListenerImplementor
+mono.com.google.android.gms.tasks.OnFailureListenerImplementor;mono.com.google.android.gms.tasks.OnFailureListenerImplementor
+Android.Gms.Tasks.IOnSuccessListenerImplementor, Xamarin.GooglePlayServices.Tasks;mono.com.google.android.gms.tasks.OnSuccessListenerImplementor
+Android.Gms.Tasks.IOnSuccessListenerImplementor, Xamarin.GooglePlayServices.Tasks, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.google.android.gms.tasks.OnSuccessListenerImplementor
+Android.Gms.Tasks.IOnSuccessListenerImplementor;mono.com.google.android.gms.tasks.OnSuccessListenerImplementor
+mono.com.google.android.gms.tasks.OnSuccessListenerImplementor;mono.com.google.android.gms.tasks.OnSuccessListenerImplementor

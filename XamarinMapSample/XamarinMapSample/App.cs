@@ -25,14 +25,14 @@ namespace XamarinMapSample
             tabs.Children.Add(new NavigationPage (page1) { Title = "Pins", Icon = "glyphish_07_map_marker.png" });
 
             // demonstrates the Geocoder class
-          //  tabs.Children.Add(new NavigationPage (page2) { Title = "Geocode", Icon = "glyphish_13_target.png" });
+            //  tabs.Children.Add(new NavigationPage (page2) { Title = "Geocode", Icon = "glyphish_13_target.png" });
 
             // opens the platform's native Map app
-           // tabs.Children.Add(new NavigationPage(page3) { Title = "Map App", Icon = "glyphish_103_map.png" });
+            // tabs.Children.Add(new NavigationPage(page3) { Title = "Map App", Icon = "glyphish_103_map.png" });
 
-            
-            
-           MainPage = tabs;
+
+
+            MainPage = new XamarinMapSample.Views.PinPages();
         }
 
         protected override void OnStart()

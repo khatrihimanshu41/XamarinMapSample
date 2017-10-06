@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection.Emit;
 using System.Text;
-using Xamarin.Forms.Maps;
+using Xamarin.Forms.GoogleMaps;
 using Xamarin.Forms;
 
 namespace XamarinMapSample

@@ -24,8 +24,8 @@ namespace XamarinMapSample.iOS
         {
             global::Xamarin.Forms.Forms.Init();
             Xamarin.FormsMaps.Init();
+            Xamarin.FormsGoogleMaps.Init("AIzaSyDmlKg0rg2TiZxJmOADXNtdf4FN94JeoW4");
             LoadApplication(new App());
-
             return base.FinishedLaunching(app, options);
         }
     }
